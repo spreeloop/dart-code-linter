@@ -1,6 +1,4 @@
 # Changelog
-## 1.1.2
-- append new presset `analysis_options.1.0.0.yaml`
 ## 1.1.1
 - Rename common rules to dart rules
 ## 1.1.0
